@@ -1,0 +1,5 @@
+config:
+  aws-native:profile: techlabor
+  aws-native:region: eu-central-1
+  aws:profile: techlabor
+  aws:region: eu-central-1

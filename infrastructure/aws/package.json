@@ -1,0 +1,15 @@
+{
+  "name": "spring-with-crac",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^20"
+  },
+  "dependencies": {
+    "@pulumi/aws": "^6.2.0",
+    "@pulumi/aws-native": "^0.65.0",
+    "@pulumi/command": "^0.7.2",
+    "@pulumi/docker": "^4.2.4",
+    "@pulumi/policy": "^1.5.0",
+    "@pulumi/pulumi": "^3.0.0"
+  }
+}
